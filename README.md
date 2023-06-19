@@ -16,18 +16,18 @@ DeepLearning Project Porfolio
 		- https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri</p>
 	<p>(2). Data Preprocessing<br/>
 		- ImageDataGenerator<br/>
-      		- rescale: 1./255t<br/>
+      		- rescale: 1./255<br/>
       		- image size: (244, 244)<br/>
-      		- color mode: rgbt<br/>
+      		- color mode: rgb<br/>
 	  	- class mode: sparse<br/></p>
 	<p>(3). Model & Algorithms<br/>
 	  	- Transfer Learning(TL)<br/>
       	  	        - MobileNet<br/>
-	  	- Fine Tunningt<br/>
-		 	- Two hidden layerst<br/>
-      		        - Activate function: softmaxt<br/></p>
+	  	- Fine Tunning<br/>
+		 	- Two hidden layers<br/>
+      		        - Activate function: softmax<br/></p>
 	<p>(4). Report<br/>
-    	- loss: 0.0551, accuracy: 0.9850t<br/>
+    	- loss: 0.0551, accuracy: 0.9850<br/>
 	- val_loss: 1.2912, val_accuracy: 0.7487<br/>
 	- Problems(문제): Overfitting and Low Accuracy(과대적합과 낮은 정확도)<br/></p>
  
