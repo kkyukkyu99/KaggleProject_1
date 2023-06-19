@@ -33,6 +33,6 @@ DeepLearning Project Porfolio
  
 ![First_Train](https://github.com/kkyukkyu99/Portfolio/blob/main/First_Train.png)
 
-	<p>(5). Solution<br/>
-	- Solve overfitting problem by mixing and redistributing<br/>
-	- 데이터를 섞은 후 재분배하여 과대적합 문제를 해결한다.<br/></p>
+<p>(5). Solution<br/>
+- Solve overfitting problem by mixing and redistributing<br/>
+- 데이터를 섞은 후 재분배하여 과대적합 문제를 해결한다.<br/></p>
