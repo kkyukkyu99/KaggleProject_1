@@ -11,26 +11,32 @@ DeepLearning Project Porfolio
   따라서, 딥러닝 알고리즘을 사용하여 뇌종양 탐지 및 분류를 수행하였습니다.</p>
 
 <h3>First try</h3>
+
 - Summary
-	(1) Data Source
+	
+	1. Data Source
 		- https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
-	(2) Data Preprocessing
+	
+	2. Data Preprocessing
 		- ImageDataGenerator
       		- rescale: 1./255
       		- image size: (244, 244)
       		- color mode: rgb
 			- class mode: sparse
-	(3) Model & Algorithms
+	
+	3. Model & Algorithms
 	  	- Transfer Learning(TL)
       	  	- MobileNet
 	  	- Fine Tunning
 		 	- Two hidden layers
       		- Activate function: softmax
-	(4) Report
+	
+	4. Report
     	- loss: 0.0551, accuracy: 0.9850
 		- val_loss: 1.2912, val_accuracy: 0.7487
 		- Problems(문제): Overfitting and Low Accuracy(과대적합과 낮은 정확도)
 		![First_Train](https://github.com/kkyukkyu99/Portfolio/blob/main/First_Train.png)
-	(5). Solution
+	
+	5. Solution
 		- Solve overfitting problem by mixing and redistributing
 		- 데이터를 섞은 후 재분배하여 과대적합 문제를 해결한다.
