@@ -26,8 +26,8 @@ DeepLearning Project Porfolio
 	
 	3. Model & Algorithms
 	  	- Transfer Learning(TL): MobileNet(CNN)
-	  	- Fine Tunning<br/>
-      - Activate function: softmax
+	  	- Fine Tunning
+  		- Activate function: softmax
 	
 	4. Report
     		- loss: 0.0551, accuracy: 0.9850
