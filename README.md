@@ -26,7 +26,7 @@ DeepLearning Project Porfolio
 	
 	3. Model & Algorithms
 	  	- Transfer Learning(TL): MobileNet(CNN)
-	  	- Fine Tunning
+	  	- Fine Tunning<br/>
       		- Activate function: softmax
 	
 	4. Report
