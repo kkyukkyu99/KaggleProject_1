@@ -26,13 +26,14 @@ DeepLearning Project Porfolio
 	
 	3. Model & Algorithms
 	  	- Transfer Learning(TL)
-      	  	- MobileNet
+      	  		- MobileNet(CNN)
 	  	- Fine Tunning
 		 	- Two hidden layers
-      		- Activate function: softmax
+      		- Activate function
+        		- softmax
 	
 	4. Report
-    	- loss: 0.0551, accuracy: 0.9850
+    		- loss: 0.0551, accuracy: 0.9850
 		- val_loss: 1.2912, val_accuracy: 0.7487
 		- Problems(문제): Overfitting and Low Accuracy(과대적합과 낮은 정확도)
 		![First_Train](https://github.com/kkyukkyu99/Portfolio/blob/main/First_Train.png)
@@ -40,3 +41,10 @@ DeepLearning Project Porfolio
 	5. Solution
 		- Solve overfitting problem by mixing and redistributing
 		- 데이터를 섞은 후 재분배하여 과대적합 문제를 해결한다.
+
+  <h3>Second try</h3>
+  
+  	6. Report
+  	   	- loss: 0.0258, accuracy: 0.9925
+  	   	- val_loss: 0.0386, val_accuracy: 0.9889
+		![Second Train](https://github.com/kkyukkyu99/Portfolio/blob/main/Second_Train.png)
