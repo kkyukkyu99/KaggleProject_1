@@ -25,12 +25,9 @@ DeepLearning Project Porfolio
 			- class mode: sparse
 	
 	3. Model & Algorithms
-	  	- Transfer Learning(TL)
-      	  		- MobileNet(CNN)
+	  	- Transfer Learning(TL): MobileNet(CNN)
 	  	- Fine Tunning
-		 	- Two hidden layers
-      		- Activate function
-        		- softmax
+      		- Activate function: softmax
 	
 	4. Report
     		- loss: 0.0551, accuracy: 0.9850
