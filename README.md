@@ -36,7 +36,7 @@ DeepLearning Project Porfolio
     	- loss: 0.0551, accuracy: 0.9850
 		- val_loss: 1.2912, val_accuracy: 0.7487
 		- Problems(문제): Overfitting and Low Accuracy(과대적합과 낮은 정확도)<br>
-		![First_Train](https://github.com/kkyukkyu99/Portfolio/blob/main/First_Train.png)
+		![First_Training_Result](https://github.com/kkyukkyu99/Portfolio/blob/main/First_Training_Result.png)
 	
 	5. Solution
 		- Solve overfitting problem by mixing and redistributing
@@ -47,4 +47,4 @@ DeepLearning Project Porfolio
   	6. Report
   	   	- loss: 0.0258, accuracy: 0.9925
   	   	- val_loss: 0.0386, val_accuracy: 0.9889<br>
-		![Second Train](https://github.com/kkyukkyu99/Portfolio/blob/main/Second_Train.png)
+		![Second_Training_Result](https://github.com/kkyukkyu99/Portfolio/blob/main/Second_Training_Result.png)
