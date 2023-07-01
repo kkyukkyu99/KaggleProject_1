@@ -12,7 +12,7 @@ DeepLearning Project Porfolio
 
 - Summary
 
-<h3>First try</h3>
+  <h3>First try</h3>
 	
 	1. Data Source
 		- https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
@@ -42,7 +42,7 @@ DeepLearning Project Porfolio
 		- Solve overfitting problem by mixing and redistributing
 		- 데이터를 섞은 후 재분배하여 과대적합 문제를 해결한다.
 
-<h3>Second try</h3>
+  <h3>Second try</h3>
   
   	6. Report
   	   	- loss: 0.0258, accuracy: 0.9925
