@@ -22,7 +22,8 @@ DeepLearning Project Porfolio
       		- rescale: 1./255
       		- image size: (244, 244)
       		- color mode: rgb
-			- class mode: sparse
+			- class mode: sparse<br>
+		![Tumor_Images_and_Label_Names](https://github.com/kkyukkyu99/Portfolio/blob/main/Tumor_Images_and_Label_Names.png)
 	
 	3. Model & Algorithms
 	  	- Transfer Learning(TL)
